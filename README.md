@@ -6,7 +6,11 @@ I build production-ready AI systems using RAG pipelines, agent workflows, and sc
 
 ## 📊 GitHub Stats
 
-![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=KunalSanghvii&show_icons=true&theme=radical)
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![AI](https://img.shields.io/badge/AI-Advanced-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-Strong-teal)
+![ML](https://img.shields.io/badge/ML-Production-orange)
+![Kafka](https://img.shields.io/badge/Kafka-Intermediate-black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalSanghvii&layout=compact&theme=radical)
 
